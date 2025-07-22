@@ -1,0 +1,4 @@
+/creds
+/venv
+.env
+googledrive_oauth.json
