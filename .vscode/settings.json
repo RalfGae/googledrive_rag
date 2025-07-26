@@ -1,0 +1,11 @@
+{
+    "_description": "Copilot terminal allowlist for safe automation in lidlplus_test workspace.",
+    "github.copilot.chat.agent.terminal.allowlist": [
+        "bash setup.sh",
+        "source venv/bin/activate",
+        "ls",
+        "python3 googledrive_rag_test.py | tee output.txt"
+    ],
+    "github.copilot.chat.agent.terminal.allowlistEnabled": true,
+    "github.copilot.chat.agent.terminal.enabled": true
+}
